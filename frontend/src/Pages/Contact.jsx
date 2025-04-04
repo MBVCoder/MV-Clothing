@@ -15,8 +15,8 @@ const Contact = () => {
           alt=""
         />
         <div className="flex flex-col justify-center items-start gap-6">
-          <p></p>
-          <p></p>
+          <p className="font-semibold text-xl text-gray-600">Our Store</p>
+          <p>54709 Willms Station <br />Suite 350 , Washington, USA</p>
           <p></p>
           <p></p>
           <p></p>
